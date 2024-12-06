@@ -3,7 +3,7 @@
 
   <div>🚧工事中🚧</div>
 
-  <a href="https://github.com/mouse484/Astraea">GitHub Repo</a>
+  <a href='https://github.com/mouse484/Astraea'>GitHub Repo</a>
 </main>
 
 <style>
